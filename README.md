@@ -34,8 +34,8 @@
 
   ### 5.Analysis and Results Presentation:
 
- ##### -Goal:Conduct a symphony of analysis and present the results in a language comprehensible to all.
- ##### -Steps:Dive into the results, creating a non-technical presentation that resonates with the client.
+ ##### <i>Goal:Conduct a symphony of analysis and present the results in a language comprehensible to all.
+ ##### <i>Steps:Dive into the results, creating a non-technical presentation that resonates with the client.
 
 
   ## C.Resources:
