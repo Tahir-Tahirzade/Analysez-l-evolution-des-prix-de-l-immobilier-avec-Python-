@@ -12,30 +12,30 @@
 
    ### 1.Analyzing Historical Data:
 
--Goal: Unearth the tales hidden within past real estate trends in Paris.
--Steps: Explore data nuances, from types and categories to transaction volumes, historical intervals, and price variations.
+-Goal:Unearth the tales hidden within past real estate trends in Paris.
+-Steps:Explore data nuances, from types and categories to transaction volumes, historical intervals, and price variations.
 
    ### 2.Training the Prediction Algorithm:
 
--Goal: Craft a model that breathes life into property value predictions.
--Steps: Dance with linear regression, aiming for an error less than 10%. Engage in a critical assessment of the model's relevance.
--Keep in Mind: Let one-hot encoding and train-test splitting be your dance partners, consulting the Scikit-Learn documentation as your trusted choreographer.
+-Goal:Craft a model that breathes life into property value predictions.
+-Steps:Dance with linear regression, aiming for an error less than 10%. Engage in a critical assessment of the model's relevance.
+-Keep in Mind:Let one-hot encoding and train-test splitting be your dance partners, consulting the Scikit-Learn documentation as your trusted choreographer.
 
 
    ### 3.Future Portfolio Valuation Prediction:
 
--Goal: Cast a vision of the future portfolio's financial symphony and present the results as a harmonious narrative.
--Steps: Polish the code, predict the future valuation, and present findings in a non-technical manner.
+-Goal:Cast a vision of the future portfolio's financial symphony and present the results as a harmonious narrative.
+-Steps:Polish the code, predict the future valuation, and present findings in a non-technical manner.
 
 
   ### 4.Unsupervised Property Classification:
 
--Goal: Bring forth an automated classification ballet for property opportunities.
+-Goal:Bring forth an automated classification ballet for property opportunities.
 
   ### 5.Analysis and Results Presentation:
 
-Goal: Conduct a symphony of analysis and present the results in a language comprehensible to all.
-Steps: Dive into the results, creating a non-technical presentation that resonates with the client.
+ ##### -Goal:Conduct a symphony of analysis and present the results in a language comprehensible to all.
+ ##### -Steps:Dive into the results, creating a non-technical presentation that resonates with the client.
 
 
   ## C.Resources:
