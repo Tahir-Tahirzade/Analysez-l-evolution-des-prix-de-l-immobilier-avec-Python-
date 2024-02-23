@@ -39,9 +39,9 @@
 
 
   ## C.Resources:
-- [Machine Learnia]([https://www.youtube.com/your_python_analysis_link](https://www.youtube.com/results?search_query=machine+learnia))
-- [K-means expliqué: exemple pratique en Python (In French)]([https://www.youtube.com/your_kmeans_link](https://www.youtube.com/watch?v=h6bcU49mkkU))
-- [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)]([https://www.youtube.com/your_pandas_tutorial_link](https://www.youtube.com/watch?v=vmEHCJofslg&list=PLTAn-x7H2cSsAqPpC9ZHfBjexytKuuJ9I&index=2))
+- [Machine Learnia](https://www.youtube.com/results?search_query=machine+learnia)
+- [K-means expliqué: exemple pratique en Python (In French)](https://www.youtube.com/watch?v=h6bcU49mkkU)
+- [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg&list=PLTAn-x7H2cSsAqPpC9ZHfBjexytKuuJ9I&index=2)
 
 
    ## SKILLS:
