@@ -39,17 +39,17 @@
 
 
   ## C.Resources:
-- [Machine Learnia](https://www.youtube.com/results?search_query=machine+learnia)
+- [Machine Learnia(In French)](https://www.youtube.com/results?search_query=machine+learnia)
 - [K-means expliqué: exemple pratique en Python (In French)](https://www.youtube.com/watch?v=h6bcU49mkkU)
 - [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg&list=PLTAn-x7H2cSsAqPpC9ZHfBjexytKuuJ9I&index=2)
 
 
    ## SKILLS:
    #### HARD SKILLS:
- ##### -Data Analysis with Pandas:
- ##### -Machine Learning - Linear Regression:
- ##### -Python Programming:
- ##### -K-means Clustering:
+ ##### -Data Analysis with Pandas:The project involved extensive data analysis using Pandas, requiring a deep understanding of data manipulation, exploration, and interpretatio
+ ##### -Machine Learning - Linear Regression:Employing linear regression for predictive modeling demanded expertise in machine learning concepts. It involved understanding the algorithm, feature engineering, and model evaluation.
+ ##### -Python Programming:The entire project was executed using Python, necessitating proficiency in the programming language. This included coding for data analysis, machine learning, and presentation preparation.
+ ##### -K-means Clustering:Implementing the K-means algorithm for unsupervised property classification required knowledge of clustering techniques and their application to real-world datasets.
 
 
    #### SOFT SKILLS:
@@ -60,6 +60,6 @@
 
    # REFERENCES:
    
-Initiate yourself to Python for data analysis.
-Create a slideshow to accompany your presentation
-Initiate yourself to Machine Learning
+- [Initiate yourself to Python for data analysis.(In French)](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees)
+- [Create a slideshow to accompany your presentation(In French)](https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation)
+- [Initiate yourself to Machine Learning(In French)](https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning)
