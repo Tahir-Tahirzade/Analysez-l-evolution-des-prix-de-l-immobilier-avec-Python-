@@ -12,25 +12,25 @@
 
    ### 1.Analyzing Historical Data:
 
--Goal:Unearth the tales hidden within past real estate trends in Paris.
--Steps:Explore data nuances, from types and categories to transaction volumes, historical intervals, and price variations.
+ ##### -Goal:Unearth the tales hidden within past real estate trends in Paris.
+ ##### -Steps:Explore data nuances, from types and categories to transaction volumes, historical intervals, and price variations.
 
    ### 2.Training the Prediction Algorithm:
 
--Goal:Craft a model that breathes life into property value predictions.
--Steps:Dance with linear regression, aiming for an error less than 10%. Engage in a critical assessment of the model's relevance.
--Keep in Mind:Let one-hot encoding and train-test splitting be your dance partners, consulting the Scikit-Learn documentation as your trusted choreographer.
+ ##### -Goal:Craft a model that breathes life into property value predictions.
+ ##### -Steps:Dance with linear regression, aiming for an error less than 10%. Engage in a critical assessment of the model's relevance.
+ ##### -Keep in Mind:Let one-hot encoding and train-test splitting be your dance partners, consulting the Scikit-Learn documentation as your trusted choreographer.
 
 
    ### 3.Future Portfolio Valuation Prediction:
 
--Goal:Cast a vision of the future portfolio's financial symphony and present the results as a harmonious narrative.
--Steps:Polish the code, predict the future valuation, and present findings in a non-technical manner.
+ ##### -Goal:Cast a vision of the future portfolio's financial symphony and present the results as a harmonious narrative.
+ ##### -Steps:Polish the code, predict the future valuation, and present findings in a non-technical manner.
 
 
   ### 4.Unsupervised Property Classification:
 
--Goal:Bring forth an automated classification ballet for property opportunities.
+ ##### -Goal:Bring forth an automated classification ballet for property opportunities.
 
   ### 5.Analysis and Results Presentation:
 
@@ -39,15 +39,27 @@
 
 
   ## C.Resources:
-
+- [Machine Learnia]([https://www.youtube.com/your_python_analysis_link](https://www.youtube.com/results?search_query=machine+learnia))
+- [K-means expliqué: exemple pratique en Python (In French)]([https://www.youtube.com/your_kmeans_link](https://www.youtube.com/watch?v=h6bcU49mkkU))
+- [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)]([https://www.youtube.com/your_pandas_tutorial_link](https://www.youtube.com/watch?v=vmEHCJofslg&list=PLTAn-x7H2cSsAqPpC9ZHfBjexytKuuJ9I&index=2))
 
 
    ## SKILLS:
-        #### HARD SKILLS:
+   #### HARD SKILLS:
+ ##### -Data Analysis with Pandas:
+ ##### -Machine Learning - Linear Regression:
+ ##### -Python Programming:
+ ##### -K-means Clustering:
 
 
-        #### SOFT SKILLS:
+   #### SOFT SKILLS:
+ ##### -Communication:Clear communication was crucial throughout the project. From interacting with the client to presenting complex findings, I honed my ability to convey technical information in a non-technical and reassuring manner.
+ ##### - Critical Thinking: Addressing challenges such as the need for automation demanded a critical evaluation of the available data, methodologies, and potential limitations. It required me to think beyond immediate solutions and anticipate future needs.
 
+ ##### - Adaptability:Navigating through different project phases, from data analysis to predictive modeling and client presentations, required adaptability. It involved adjusting strategies based on feedback, challenges, and evolving project requirements.
 
    # REFERENCES:
    
+Initiate yourself to Python for data analysis.
+Create a slideshow to accompany your presentation
+Initiate yourself to Machine Learning
