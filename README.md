@@ -3,7 +3,7 @@
 
 
 
-####  <i>In my role as a Business Intelligence Analyst at ESN Data, I embarked on a transformative mission with "Les plus Beaux Logis de Paris," a prominent client in the real estate sector. This journey involved delving into the historical tapestry of real estate prices in Paris, weaving together insights that would shape strategic decision-making through the power of predictive analysis.Upon my return to the office, I encountered Jade, the director of the service, displaying a sense of concern. A comprehensive analysis revealed two pivotal dimensions for my predictive algorithm:
+#### In my role as a Business Intelligence Analyst at ESN Data, I embarked on a transformative mission with "Les plus Beaux Logis de Paris," a prominent client in the real estate sector. This journey involved delving into the historical tapestry of real estate prices in Paris, weaving together insights that would shape strategic decision-making through the power of predictive analysis.Upon my return to the office, I encountered Jade, the director of the service, displaying a sense of concern. A comprehensive analysis revealed two pivotal dimensions for my predictive algorithm:
 -The predictive algorithm's regression performance needed to boast an error rate below 10%, ensuring accurate forecasts of real estate prices.
 -The predictive insights would serve as a compass, guiding strategic decisions towards the most valuable segments of the portfolio.
 ####  These insights were not just numerical; they were stories waiting to be told. Soft skills, such as effective communication and reassurance, became the threads that would weave these stories into actionable narratives for the client. Jade acknowledged and valued the quality of my work, extending an invitation for collaborative exploration of statistical techniques. The client faced a pressing challenge: swift decision-making in real estate acquisitions amidst limited property information. Opportunities lay hidden, requiring manual investigation. Jade envisioned a future where this process could be automated, seeking my expertise to illuminate the path forward.
@@ -34,8 +34,8 @@
 
   ### 5.Analysis and Results Presentation:
 
- ##### <i>Goal:Conduct a symphony of analysis and present the results in a language comprehensible to all.
- ##### <i>Steps:Dive into the results, creating a non-technical presentation that resonates with the client.
+ ##### -Goal:Conduct a symphony of analysis and present the results in a language comprehensible to all.
+ ##### -Steps:Dive into the results, creating a non-technical presentation that resonates with the client.
 
 
   ## C.Resources:
